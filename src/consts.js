@@ -1,0 +1,1 @@
+export const serverUrl = "https://www.jodovalabs.com:3000";
